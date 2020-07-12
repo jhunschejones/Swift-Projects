@@ -10,3 +10,4 @@ After each work-along project, I did a project on my own to test that I was able
 ## Contents
 ### Static Content
 * I Am Rich - A static, single-page app that I built while working along with The App Brewery online IOS bootcamp
+* Fall - A static, single-page app that I built on my own to apply what I was learning in my bootcamp
