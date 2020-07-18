@@ -9,5 +9,8 @@ After each work-along project, I did a project on my own to test that I was able
 
 ## Contents
 ### Static Content
-* I Am Rich - A static, single-page app that I built while working along with The App Brewery online IOS bootcamp
-* Fall - A static, single-page app that I built on my own to apply what I was learning in my bootcamp
+* [I Am Rich](https://github.com/jhunschejones/Swift-Projects/tree/master/I%20Am%20Rich) - A static, single-page app that I built while working along with The App Brewery online IOS bootcamp
+* [Fall](https://github.com/jhunschejones/Swift-Projects/tree/master/Fall) - A static, single-page app that I built on my own to apply what I was learning in my bootcamp
+
+### Reacting to user input
+* [Dicee](https://github.com/jhunschejones/Swift-Projects/tree/master/Dicee) - A single-page app that reacts to user input to roll a pair of dice
