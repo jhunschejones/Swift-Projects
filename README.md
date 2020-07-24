@@ -15,3 +15,6 @@ After each work-along project, I did a project on my own to test that I was able
 ### Reacting to user input
 * [Dicee](https://github.com/jhunschejones/Swift-Projects/tree/master/Dicee) - A single-page app that reacts to user input to roll a pair of dice
 * [Magic-8-Ball](https://github.com/jhunschejones/Swift-Projects/tree/master/Magic-8-Ball) - A single-page app that reacts to user input to trigger 8-ball suggestions
+
+### Reactive layouts
+* [Auto Layout](https://github.com/jhunschejones/Swift-Projects/tree/master/AutoLayout) - My first deep dive into building a truly responsive layout that works on multiple orientations and aspect ratios.
