@@ -23,3 +23,6 @@ After each work-along project, I did a project on my own to test that I was able
 ### Audio & delayed callbacks
 * [Xylophone](https://github.com/jhunschejones/Swift-Projects/tree/master/Xylophone) - An interactive audio app that plays sound like a Xylophone when a user clicks the buttons
 * [Egg Timer](https://github.com/jhunschejones/Swift-Projects/tree/master/EggTimer) - A three-setting egg timer app with alarm!
+
+### Programatic UI & Design Patterns
+* [Quizzler](https://github.com/jhunschejones/Swift-Projects/tree/master/Quizzler) - A quiz app that uses the MVC design pattern
