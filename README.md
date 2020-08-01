@@ -26,3 +26,4 @@ After each work-along project, I did a project on my own to test that I was able
 
 ### Programatic UI & Design Patterns
 * [Quizzler](https://github.com/jhunschejones/Swift-Projects/tree/master/Quizzler) - A quiz app that uses the MVC design pattern
+* [Quizzler 2](https://github.com/jhunschejones/Swift-Projects/tree/master/Quizzler-2) - Picking up where Quizzler left off and adding multiple choice!
