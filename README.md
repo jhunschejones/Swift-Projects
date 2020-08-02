@@ -28,3 +28,6 @@ After each work-along project, I did a project on my own to test that I was able
 * [Quizzler](https://github.com/jhunschejones/Swift-Projects/tree/master/Quizzler) - A quiz app that uses the MVC design pattern
 * [Quizzler 2](https://github.com/jhunschejones/Swift-Projects/tree/master/Quizzler-2) - Picking up where Quizzler left off and adding multiple choice!
 * [Destini](https://github.com/jhunschejones/Swift-Projects/tree/master/Destini) - A choose your own adventure, text-based game where you play a mouse fireman
+
+### Multi-screen apps
+* [BMI Calculator](https://github.com/jhunschejones/Swift-Projects/tree/master/BMI-Calculator) - A multi-screen BMI calculator, with user sliders and view transitions
