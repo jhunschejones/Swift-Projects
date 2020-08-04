@@ -31,3 +31,4 @@ After each work-along project, I did a project on my own to test that I was able
 
 ### Multi-screen apps
 * [BMI Calculator](https://github.com/jhunschejones/Swift-Projects/tree/master/BMI-Calculator) - A multi-screen BMI calculator, with user sliders and view transitions
+* [Tipsy](https://github.com/jhunschejones/Swift-Projects/tree/master/Tipsy) - A multi-screen, tip-calculating / bill-splitting app
